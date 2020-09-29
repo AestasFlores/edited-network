@@ -14,8 +14,6 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 - New Footer 
 - New Icons and New <code>style.css</code>!
 
-<img src"https://alfred.is-inside.me/5FsexhSv.png" />
-
 # What awaits us with these features?
 
 - Lines of code that make it work more stable and faster now!
