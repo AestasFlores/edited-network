@@ -7,8 +7,8 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 # New Features!
 
 - Custom Scrollbar
-- Custom Media Icons Color
-- Custom and new CSS Buttons
+- Custom Media Icons Color.
+- Custom and new CSS Buttons.
 - New Network Pages.
 - New Colors , yeah so cool!
 - New Footer.
@@ -20,8 +20,8 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 - Customizable background and text colors!
 - New Developer Easter Eggs , sssh!
 - New and customizable plugins and web pages!
-- Cool Social Media Icons!
-- New CSS Animations!
+- Cool Social Media Icons.
+- New CSS Animations and more.
 
 # Copyrights
 
