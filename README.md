@@ -1,6 +1,6 @@
 <img src="https://alfred.is-inside.me/ruHnm24b.png" />
 
-# Welcome to my our new Network and yes Re-designed!
+# Welcome to our new Network and yes Re-designed!
 
 Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 
