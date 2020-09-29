@@ -13,8 +13,8 @@ body {
 
 @media (prefers-color-scheme: dark) {
     body {
-        color: #7289da;
-        background-color: rgba(5, 5, 5, 1);
+        color: #99AAB5;
+        background-color: #23272A;
     }
 
     a.github {
@@ -291,14 +291,14 @@ i:hover {
 
 .steam {
     margin-left: 14px;
-    color: #777d88;
+    color: #7289da;
 }
 
 .steam:hover,
 .steam:focus,
 .steam:active {
     color: #7289da;
-    border-color: rgba(5, 5, 5, 1);
+    border-color: #7289da;
 }
 
 .reddit {
