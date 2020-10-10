@@ -1,10 +1,10 @@
 <img src="https://alfred.is-inside.me/ruHnm24b.png" />
 
-# Welcome to our new Network and yes Re-designed!
+# 📝 Welcome to our new Network and yes Re-designed!
 
 Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 
-# New Features!
+# 💁‍♂️ New Features!
 
 - Custom Scrollbar
 - Custom Media Icons Color.
@@ -14,7 +14,7 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 - New Footer.
 - New Icons and New <code>style.css</code>!
 
-# What awaits us with these features?
+# 📩 What awaits us with these features?
 
 - Lines of code that make it work more stable and faster now!
 - Customizable background and text colors!
@@ -23,7 +23,7 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 - Cool Social Media Icons.
 - New CSS Animations and more.
 
-# How can you support us?
+# 🙏 How can you support us?
 - Fork this project on GitHub.
 - Star this project on Github.
 - And Dance, lmfao!
