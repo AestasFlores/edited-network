@@ -8,8 +8,9 @@
 
 Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 
-# 💁‍♂️ New Features!
+<hr></hr>
 
+# 💁‍♂️ New Features!
 - Custom Scrollbar
 - Custom Media Icons Color.
 - Custom and new CSS Buttons.
@@ -18,8 +19,9 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 - New Footer.
 - New Icons and New <code>style.css</code>!
 
-# 📩 What awaits us with these features?
+<hr></hr>
 
+# 📩 What awaits us with these features?
 - Lines of code that make it work more stable and faster now!
 - Customizable background and text colors!
 - New Developer Easter Eggs , sssh!
@@ -27,10 +29,14 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 - Cool Social Media Icons.
 - New CSS Animations and more.
 
+<hr></hr>
+
 # 🙏 How can you support us?
 - Fork this project on GitHub.
 - Star this project on Github.
 - And Dance, lmfao!
+
+<hr></hr>
 
 # Copyrights
 
