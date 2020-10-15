@@ -42,6 +42,8 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 
 Copyright © 2020, All Rights Reserved. - Designed by Kaguwo and Re-designed by <a href="https://github.com/alfredsaveron"> Alf</a> , created with Next.JS and ❤️
 
+<hr></hr>
+
 # Developers
 
 - <a href="https://kaguwo.com">Kaguwo</a>
