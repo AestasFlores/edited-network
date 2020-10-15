@@ -45,4 +45,4 @@ Copyright © 2020, All Rights Reserved. - Designed by Kaguwo and Re-designed by 
 # Developers
 
 - <a href="https://kaguwo.com">Kaguwo</a>
-- Alf
+- <a href="https://alfreddo.ga">Alf</a>
