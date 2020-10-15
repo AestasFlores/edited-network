@@ -44,5 +44,5 @@ Copyright © 2020, All Rights Reserved. - Designed by Kaguwo and Re-designed by 
 
 # Developers
 
-- Kaguwo ( Website's Main Developer and Owner )
-- Alf ( Website's Second Developer )
+- <a href="https://kaguwo.com">Kaguwo</a>
+- Alf
