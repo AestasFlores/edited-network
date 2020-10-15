@@ -11,7 +11,7 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 <hr></hr>
 
 # 💁‍♂️ New Features!
-- Custom Scrollbar
+- Custom Scrollbar.
 - Custom Media Icons Color.
 - Custom and new CSS Buttons.
 - New Network Pages.
