@@ -34,7 +34,7 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 # 🙏 How can you support us?
 - Fork this project on GitHub.
 - Star this project on Github.
-- And Dance, lmfao!
+- And Dance, lmfao.
 
 <hr></hr>
 
