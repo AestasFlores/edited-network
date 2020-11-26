@@ -23,7 +23,7 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 
 # 📩 Features?
 - Lines of code that make it work more stable and faster now!
-- Customizable background and text colors!
+- Customizable background and text colors.
 - New Developer Easter Eggs , sssh!
 - New and customizable plugins and web pages!
 - Cool Social Media Icons.
