@@ -21,7 +21,7 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 
 <hr></hr>
 
-# 📩 What awaits us with these features?
+# 📩 Features?
 - Lines of code that make it work more stable and faster now!
 - Customizable background and text colors!
 - New Developer Easter Eggs , sssh!
