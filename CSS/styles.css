@@ -9,7 +9,7 @@ body {
     justify-items: center;
 }
 
-/* Media Queries */
+/* MEDIA QUERIES */
 
 @media (prefers-color-scheme: dark) {
     body {
@@ -31,6 +31,8 @@ body {
         font-size: 22px;
         justify-content: center;
     }
+
+/* TEXT */
 
     div.global {
         text-align: center;
@@ -58,6 +60,8 @@ body {
         font-size: 48px;
     }
 
+/* FOOTER */
+
     footer {
         text-align: center;
         background: fixed;
@@ -69,7 +73,7 @@ body {
     }   
 }
 
-/* End of Media Queries */
+/* END OF MEDIA QUERIES */
 
 .global {
     text-align: center;
@@ -104,6 +108,8 @@ body {
 	}
 }
 
+/* DETAILS */
+
 .welcome {
     font-size: 64px;
     margin: 0 0 1px;
@@ -132,6 +138,8 @@ body {
     margin-top: 50px;
     justify-content: space-between;
 }
+
+/* COOL BUTTONS :sunglasses: */
 
 .projects h3 {
     font-size: 32px;
@@ -169,6 +177,8 @@ body {
     margin-bottom: 10px;
     text-decoration: none;
 }
+
+/* AGAIN FOOTER */
 
 footer {
     text-align: center;
@@ -217,6 +227,8 @@ i:hover {
     -webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */
     transform: rotate(360deg);
 }
+
+/* SOCIAL MEDIA BUTTONS */
 
 .twitter {
     margin-right: 14px;
@@ -291,6 +303,8 @@ i:hover {
     box-sizing: border-box;
 }
 
+/* COUNTDOWN PAGE */
+
 .countdown {
     text-align: center;
     margin-top: 230px;
@@ -313,6 +327,8 @@ body {
   width: 100%;
   overflow: 'hidden';
 }
+
+/* CANVAS INFO */
 
 #canvas {
   width: 10000%;
@@ -341,6 +357,8 @@ body {
   justify-content: center;
   background-color: var(--bg-color);
 }
+
+/* MORE BUTTON OPTION */
 
 button {
   position:relative;
@@ -416,7 +434,8 @@ button .left:hover ~ .right::after {
   transform: translate(0, -50%) rotate(7deg)
 }
 
-/* bubbles */
+/* BUTTON'S BUBBLE EFFECTS */
+
 button::before {
   content: '';
   pointer-events: none;
@@ -443,7 +462,7 @@ button::before {
   }
 }
 
-/*CUSTOM SCROLLBAR*/
+/* CUSTOM WEBKIT SCROLLBAR */
 
 ::-webkit-scrollbar {
   width: 5px;
