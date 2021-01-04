@@ -58,6 +58,8 @@ body {
   position: relative;
 }
 
+/* H1 Texts */
+
 .error-page h1 + p::after {
   content: attr(data-p);
   position: absolute;
@@ -70,6 +72,8 @@ body {
   -moz-background-clip: text;
   background-clip: text;
 }
+
+
 
 @keyframes animateTextBg {
   0% {
