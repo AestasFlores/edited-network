@@ -23,7 +23,7 @@ body {
   padding: 0;
 }
 
-/* 404 PAGE TEXT */
+/* More Text */
 
 .error-page h1::after {
   content: attr(data-h1);
