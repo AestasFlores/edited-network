@@ -73,7 +73,7 @@ body {
   background-clip: text;
 }
 
-
+/* Keyframes (Animated Text) */
 
 @keyframes animateTextBg {
   0% {
