@@ -4,7 +4,7 @@ body {
   overflow: hidden;
   background: #23272a;
 }
-/* 404 PAGE */
+/* 404 Page and more. */
 
 .error-page {
   height: 100%;
@@ -23,7 +23,7 @@ body {
   padding: 0;
 }
 
-/* More Text */
+/* More Texts */
 
 .error-page h1::after {
   content: attr(data-h1);
