@@ -1,4 +1,4 @@
-**Announcement :** :octocat: The new GitHub page is now more organized and more descriptive. Now it's much easier to organize everything and see where it is?!
+**Announcement :** :octocat: The new GitHub page is now more organized and more descriptive. Now it's much easier to organize everything and see where it is?
 
 <hr></hr>
 
