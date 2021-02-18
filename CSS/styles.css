@@ -9,7 +9,7 @@ body {
     justify-items: center;
 }
 
-/* MEDIA QUERIES */
+/* MEDIA */
 
 @media (prefers-color-scheme: dark) {
     body {
@@ -73,7 +73,7 @@ body {
     }   
 }
 
-/* END OF MEDIA QUERIES */
+/* END OF MEDIA */
 
 .global {
     text-align: center;
