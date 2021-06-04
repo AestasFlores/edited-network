@@ -1,14 +1,10 @@
 **Announcement :** :octocat: The new GitHub page is now more organized and more descriptive. Now it's much easier to organize everything and see where it is?
 
-<hr></hr>
-
 <img src="https://alfred.is-inside.me/ruHnm24b.png" />
 
 # 📝 Welcome to our new Network and yes Re-designed!
 
 Now with a dark theme, Kaguwo's ​​Network hosts many new features!
-
-<hr></hr>
 
 # 💁‍♂️ New Features!
 - Custom Scrollbar.
@@ -19,7 +15,6 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 - New Footer.
 - New Icons and New <code>style.css</code>!
 
-<hr></hr>
 
 # 📩 Features?
 - Lines of code that make it work more stable and faster now!
@@ -29,22 +24,18 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 - Cool Social Media Icons.
 - New CSS Animations and more.
 
-<hr></hr>
-
 # 🙏 Support us!
 - Fork this project on GitHub.
 - Star this project on Github.
 - And Dance, lmfao.
 
-<hr></hr>
 
 # Copyrights
 
-Copyright © 2020, All Rights Reserved. - Designed by Kaguwo and Re-designed by <a href="https://github.com/alfredsaveron"> Alf</a> , created with Next.JS and ❤️
+Copyright © 2020 - 2021, All Rights Reserved. - Designed by Nith and Re-designed by <a href="https://github.com/alfredsaveron">Alf</a> , created with Next.JS and ❤️
 
-<hr></hr>
 
 # Developers
 
-- <a href="https://kaguwo.com">Kaguwo</a>
-- <a href="https://alfreddo.ga">Alf</a>
+- <a href="https://kaguwo.js.org">Nith</a>
+- <a href="https://alfs.ga">Alf</a>
