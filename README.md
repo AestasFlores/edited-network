@@ -1,4 +1,3 @@
-
 <img src="https://alfred.is-inside.me/ruHnm24b.png" />
 
 # 📝 Welcome to our new Network and yes Re-designed!
