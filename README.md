@@ -35,5 +35,5 @@ Copyright © 2020 - 2021, All Rights Reserved. - Designed by Nith and Re-designe
 
 # Developers
 
-- <a href="https://kaguwo.js.org">Nith</a>
-- <a href="https://alfs.ga">Alf</a>
+- <a href="https://nith.codes">Huseyin</a>
+- <a href="https://alfsaveron.me">Alf</a>
