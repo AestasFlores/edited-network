@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     color: #99AAB5;
-    background: #23272A;
+    background: #000;
     font-family: 'Roboto', sans-serif;
     align-items: center;
     justify-items: center;
@@ -14,7 +14,7 @@ body {
 @media (prefers-color-scheme: dark) {
     body {
         color: #99AAB5;
-        background-color: #23272A;
+        background-color: #000;
     }
 }
 
@@ -465,11 +465,11 @@ button::before {
 /* CUSTOM WEBKIT SCROLLBAR */
 
 ::-webkit-scrollbar {
-  width: 5px;
+  width: 2px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #23272A;
+  background: #000;
 }
 
 ::-webkit-scrollbar-thumb {
