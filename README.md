@@ -1,4 +1,4 @@
-<img src="https://alfred.is-inside.me/ruHnm24b.png" />
+<img src="https://cdn.discordapp.com/attachments/770554740923695106/984542609068396604/chrome_TJ8g9NLWJb.png" />
 
 # 📝 Welcome to our new Network and yes Re-designed!
 
